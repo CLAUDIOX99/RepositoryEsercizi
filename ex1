@@ -1,4 +1,4 @@
-<?xml version0"1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
     Nome: Claudio
     Cognome: Tamburini
@@ -12,7 +12,15 @@
             <child></child>
         </well>
         <noWell>
-            <noWellNested></noWellNested>
+            <noWellNested>
+                 <secondChild></secondChild>
+                 <secondSibiling></secondSibiling>
+            </noWellNested>
         </noWell>
     </tag>
 </doc>
+<!-- Adesso la gerarchia è rispettata,
+prima "</noWell>" non aspettava la chiusura 
+del figlio "<noWellNested>". Mentre secondSibilings è
+un fratello di secondChild in quanto provengono dalla 
+stessa radice.-->
