@@ -6,3 +6,13 @@
     Filename: ex1.xml
     Date: 14/03/2022
 -->
+<doc>
+    <tag>
+        <well>
+            <child></child>
+        </well>
+        <noWell>
+            <noWellNested></noWellNested>
+        </noWell>
+    </tag>
+</doc>
