@@ -9,7 +9,11 @@
 <doc>
     <tag>
         <well>
-            <child></child>
+            <child>
+                <!--1)-->
+                <htmlCode> <![CDATA[ <h1>Capitolo Primo</h1> <h2>Sezione Prima</h2>
+<p>Paragrafo primo</p> ]]> </htmlCode>
+            </child>
         </well>
         <noWell>
             <noWellNested>
@@ -24,3 +28,5 @@ prima "</noWell>" non aspettava la chiusura
 del figlio "<noWellNested>". Mentre secondSibilings è
 un fratello di secondChild in quanto provengono dalla 
 stessa radice.-->
+
+<!-- 1)Inserire all'interno di un tag, un frammento di codice HTML-->
