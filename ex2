@@ -1,0 +1,270 @@
+<!-- Esercizio di Codifica di un testo, data: 22/04 -->
+<?xml version="1.0" encoding="utf-8"?>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Le avventure d'Alice nel paese delle meraviglie.: versione elettronica</title>
+			<respStmt>
+				<resp>redatto da</resp>
+				<name>Claudio Tamburini</name>
+			</respStmt>
+		</titleStmt>
+		<publicationStmt>
+			<distributor>Loescher Editore</distributor>
+			<aviability status="free">
+				<p>Di pubblico dominio</p>
+			</aviability>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Le avventure d'Alice nel paese delle meraviglie.</title>
+				<author>Lewis Carroll</author>
+				<publisher>Loescher editore</publisher>
+				<date>1872</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<text>
+		<div>
+			<lg>
+				In su' vespri giocondi, dolcemente
+				Sul lago tranquillissimo voghiamo,
+				Da delicate mani facilmente
+				Son mossi i remi, e alla ventura andiamo,
+				E pel timon che incerto fende l'onda
+				Va la barchetta errante e vagabonda.
+
+			</lg>
+		</div>
+		<div>
+			<lg>
+				Mentre oppresso dal sonno, in luminose
+				Visioni il mio pensiero vaneggiava,
+				Mi destaron tre voci armonïose
+				Chiedendomi un Racconto! Io non osava
+				Fare il broncio severo ed il ribelle
+				A tre bocche di rose, - a tre donzelle!
+
+			</lg>
+		</div>
+		<div>
+			<lg>
+				La Prima, con la voce di comando,
+				Fieramente m'impone "Cominciate!"
+				La Seconda mi dice "Io ti domando
+				Un racconto di silfidi e di fate."
+				La Terza (io non l'avrei giammai creduto),
+				M'interrompe una volta ogni minuto.
+
+			</lg>
+		</div>
+		<div>
+			<lg>
+				Eccole! ferme, attente, silenziose,
+				Seguire con l'accesa fantasia
+				La Fanciulla vagante in portentose
+				Regïoni di sogni e poesia,
+				Che con bestie ed uccelli ognor favella,
+				E con forma del Ver l'Errore abbella.
+
+			</lg>
+		</div>
+		<div>
+			<lg>
+				La Storia non toccava ancora il fine
+				E appariva di già confusa e incolta;
+				Allor pregai le care fanciulline
+				Di finir la novella un'altra volta,
+				Ma risposer più vispe e più raggianti,
+				"No, questa è la tua volta! Avanti, avanti!"
+			</lg>
+		</div>
+		<div>
+			<lg>
+				E così le Avventure raccontai
+				Ad una ad una alle fanciulle amate,
+				Ed or questa novella ne formai
+				Ch'è un tessuto di favole accozzate; -
+				Ma il Sol già volge al suo tramonto, andiamo!
+				Alla sponda! alla sponda, orsù, voghiamo! -
+			</lg>
+		</div>
+		<div>
+			<lg>
+				O Alice, accogli questa mia Novella,
+				E fra i sogni d'infanzia la riponi,
+				Deh! fanne d'essa una ghirlanda bella,
+				E sulla tua memoria la deponi,
+				Qual pellegrin che serba un arso fiore
+				Di suol lontano, e lo tien stretto al côre! -
+			</lg>
+		</div>
+		<div>
+			<list>
+				I. GIÙ NELLA CONIGLIERA
+
+				II. LO STAGNO DI LAGRIME
+
+				III. CORSA ARRUFFATA, E RACCONTO CON LA CODA
+
+				IV. LA CASETTINA DEL CONIGLIO
+
+				V. CONSIGLI D'UN BRUCO
+
+				VI. PORCO E PEPE
+
+				VII. UN TÈ DI MATTI
+
+				VIII. IL CROQUET DELLA REGINA
+
+				IX. STORIA DELLA FALSA-TESTUGGINE
+
+				X. LA CONTRADDANZA DE' GAMBERI
+
+				XI. CHI HA RUBATO LE TORTE?
+
+				XII. TESTIMONIANZA D'ALICE
+			</list>
+		</div>
+		<div n="Capitolo1" type="romanzo"></div>
+			<pb n="1" />
+			<head>GIU NELLA CONIGLIERA.</head>
+			<p>
+				<div><move><name type="person">Alice</name></move> cominciava a sentirsi mortalmente stanca di sedere sul poggio, accanto a sua sorella, senza far nulla: una o due volte aveva gittato lo sguardo sul libro che leggeva sua sorella, ma non c'erano imagini nè dialoghi,<said>"e a che serve un libro,"</said>pensò <name type="person">Alice</name>,<said>"senza imagini e dialoghi?"</said></div>
+				<div>E andava fantasticando col suo cervello (come meglio poteva, perchè lo stellone l'avea resa sonnacchiosa e grullina), se il piacere di fare una ghirlanda di margherite valesse la noja di levarsi su, e cogliere i fiori, quand'ecco un <name type="animale fantastico">Coniglio</name> bianco con gli occhi di rubino le passò da vicino.</div>
+				<div>Davvero non c'era <emph>troppo</emph> da meravigliarsi di ciò, nè <name type="person">Alice</name> pensò che fosse cosa <emph>troppo</emph> stravagante di sentire parlare il <name type="animale fantastico">Coniglio</name>, il quale diceva fra sè <said>"Oimè! Oimèi! ho fatto tardi!"</said> (quando se lo rammentò in seguito s'accorse che avrebbe dovuto meravigliarsene, ma allora le sembrò una cosa assai naturale): ma quando il Coniglio <emph>trasse un oriuolo dal taschino del panciotto</emph>, e vi affisò gli occhi, e scappò via, <name type="person">Alice</name> saltò in piedi, perchè l'era venuto in mente ch'ella non avea mai veduto un <name type="animale fantastico">Coniglio</name> col panciotto e il suo rispettivo taschino, nè con un oriuolo da starvici dentro, e divorata dalla curiosità, traversò il campo correndogli appresso, e giunse proprio a tempo di vederlo slanciarsi in una spaziosa conigliera, di sotto alla siepe.</div>
+				<div>
+					In un altro istante, giù <name type="person">Alice</name> scivolò, correndogli appresso, senza punto riflettere come mai avrebbe fatto per riuscirne fuori.La buca della conigliera sfilava diritto come una galleria di <emph>tunnel</emph>, e poi s'inabissava tanto rapidamente che <name type="person">Alice</name> non ebbe un solo istante per considerare se avesse potuto fermarsi, poichè si sentiva cader giù rotoloni in qualche precipizio che rassomigliava a un pozzo profondissimo.
+				</div>
+				<pb n="2" />
+				<div>
+					Una delle due, o il pozzo era arci-profondo, o ella vi ruzzolava assai adagino, poichè ebbe tempo, mentre cadeva, di guardare tutto intorno, e stupiva pensando a ciò che le avverrebbe poi. Prima di tutto aguzzò la vista e cercò di vedere nel fondo per scoprire ciò che le accadrebbe, ma gli era buio affatto e non ci si vedea punto: indi guardò alle pareti del pozzo ed osservò ch'erano ricoperte di credenze e di scaffali da libri; quà e là vide mappe e quadri che pendevano da' chiodi. Andando giù prese di volo un vasettino che aveva un cartello, lo lesse<said>: "CONSERVA D'ARANCE,"</said> ma oimè! era vuoto e restò delusa: non volle lasciar cadere il vasettino per non ammazzare chi era in fondo, e andando sempre giù lo depose in un'altra credenza.
+				</div>
+				<div>
+					<said>"Bene,"</said> pensò <name type="person">Alice</name>, <said>"dopo una caduta tale, mi parrà proprio un niente il ruzzolare per le scale! A casa poi, come mi crederanno coraggiosa! D'ora innanzi, ancorchè cadessi dal tetto, non ne farei caso!"</said> (E probabilmente diceva la verità.)
+				</div>
+				<div>
+					E giù - e giù - e giù! Finirà mai quella caduta? <said>"Chi sa quante miglia ho percorse a quest'ora?"</said> esclamò. <said>"Davvero io stò per toccare il centro della terra. Vediamo: suppongo che saranno quattrocento miglia di profondità - "</said> (come vedete, <name type="person">Alice</name> aveva imparate molte di tali cose nelle sue lezioni, ma non era quella la migliore occasione per fare sfoggio della sua erudizione, poichè non c'era niuno che l'ascoltasse, ciò non di meno era bene di ripassarle a mente) - <said>"sì, la sarà questa la vera distanza, o press'a poco - ma vorrei sapere a quale grado di Latitudine o di Longitudine io sia giunta!"</said> (Alice non sapea mica che fosse Longitudine o Latitudine, ma pensò ch'erano belle parolone a dire, e le disse!)
+				</div>
+				<div>
+					Passò qualche istante e poi rincominciò. <said>"Che dovessi io <emph>traversare</emph> la terra? Sarebbe bella s'io uscissi fra le genti che camminano col capo in giù! Credo che si chiamino le Antipatie - "</said> (questa volta fu contenta che non ci <emph>fosse</emph> niuno che l'ascoltasse, perchè quel nome non le suonava giusto all'orecchio) <said>" - ma domanderò loro che nome abbia quel paese. Di grazia, Signora, è questa la <country>Nuova Zelanda</country>? o l'<country>Australia</country>?"</said> (e cercò di fare una riverenza mentre parlava - figuratevi, <emph>far riverenza</emph> mentre si casca giù a precipizio! Dite, potreste farla voi?) <said>"Ma se farò una tale domanda mi crederanno una sciocca. No, non la farò: forse troverò scritto il nome in qualche parte colaggiù."</said>
+				</div>
+				<pb n="3" />
+				<div>
+					E giù - e giù - e giù! Non avendo nulla da fare, Alice rincominciò a cinguettare. <said>"<name type="person">Dina</name> mi cercherà stanotte!"</said> (<name type="person">Dina</name> era il nome della gatta). <said>"Spero che si rammenteranno di darle il suo piattino di latte quando prenderanno il tè. Cara <name type="person">Dina</name> mia! Vorrei che tu fossi meco quaggiù! Non vi son sorci nell'aria, ma sai, tu potresti afferrare una nottola ch'è simile al sorcio. Ma che! i gatti mangiano le nottole?"</said> E quì <name type="person">Alice</name> cominciò a sonniferare, e fra il sonno e la veglia continuò a ruminare fra' denti, <said>"I gatti mangiano le nottole? I gatti mangiano le nottole?"</said> E talvolta, <said>"Le nottole mangiano i gatti?"</said> perchè, vedete, non potendo rispondere a nessuna delle due questioni, non le importava se invertiva il senso di esse. Sonnecchiava di già, e proprio allora cominciava a sognare che se ne andava a braccetto con Dina e che le diceva con faccia austera: <said>"<name type="person">Dina</name>, dìmmi la verità: hai tu mai mangiata una nottola?"</said> quando, tonfete! cascò d'un subito sopra un mucchio di ramicelli e di foglie secche, e la caduta finì.
+				</div>
+				<div>
+					<name type="person">Alice</name> non si fece male e saltò in piedi lesta e pronta: guardò in alto, era buio affatto: davanti a lei sfilava un lungo corridoio percorso dal <name type="animale fantastico">Coniglio</name> bianco ch'era sempre in vista. Non c'era tempo da perdere: <name type="person">Alice</name>, come se avesse le ali, gli corse appresso, e sentì che esclamava, mentre svoltava a una cantonata, - <said>"Giurammio! gli è tardi davvero!"</said> Stava lì lì per raggiungerlo, ma appena passò la cantonata il <name type="animale fantastico">Coniglio</name> non si vide più; ed ella si trovò in una sala lunga e bassa, illuminata da una fila di lampade che pendevano dalla volta.
+				</div>
+				<div>
+					V'erano porte tutt'intorno alla sala, ma erano tutte serrate, e dopo che <name type="person">Alice</name> andò su e giù provando tutti gli usci per vedere se fosse possibile d'aprirne qualcheduno ma sempre inutilmente, si mise a camminar mestamente nel mezzo della sala, pensando come mai avrebbe potuto riuscirne fuori.
+				</div>
+				<pb n="4" />
+				<div>
+					Tutt'a un tratto capitò vicina a un piccolo tavolino di cristallo solido e sorretto da tre piedi: non c'era altro su d'esso che una chiavettina d'oro: or la prima idea ch'ebbe <name type="person">Alice</name> fu che quella potesse aprire uno degli usci della sala; e provò - ma oimè! o le toppe erano troppo grandi, o la chiavettina era troppo piccola; ma comunque fosse, non potette aprirne alcuno. Ciò non di meno, avendo fatto un secondo giro nella sala, capitò davanti a una cortina bassa che non aveva osservata prima, e dietro ad essa v'era un piccolo uscio, alto quindici pollici o giù di lì: provò la chiavettina d'oro se andasse alla toppa, e con molta allegrezza vide che c'entrava per l'appuntino!
+				</div>
+				<div>
+					<name type="person">Alice</name> aprì l'uscio e vide che dava a un piccolo corridoio, largo quanto una buca da topi: s'inginocchiò, e vide al di là del corridoio il più bel giardino del mondo. Oh! quanto desiderò d'uscir fuori da quella sala buia per correre su que' prati di fiori risplendenti, e lungo le chiare e fresche acque delle fontane, ma non l'era dato neppure di cacciare il capo fuori della buca; <said>"e ancorchè il mio capo potesse <pb n="5" />passarvi,"</said> pensò la povera Alice, <said>"mi servirebbe poco senza farci passare anche le spalle. Oh quanto bramerei riserrarmi come un telescopio! Credo che potrei farlo, se sapessi soltanto come cominciare."</said> Poichè essendo ultimamente accadute tante cose straordinarie, <name type="person">Alice</name> avea cominciato a persuadersi che poche fossero le cose veramente impossibili.
+				</div>
+				<div>
+					Era proprio tempo perso star lì piantata davanti all'usciolino, perciò <name type="person">Alice</name> ritornò verso la tavola con una mezza speranza di potervi trovare sopra un'altra chiave, o almeno un libro il quale insegnasse alla gente a riserrarsi come un cannocchiale: questa volta vi trovò un'ampolla, (<said>"e certo non c'era prima,"</said> disse <name type="person">Alice</name>,) e aveva attaccato al collo un cartello sul quale a lettere di scatola era magnificamente scritta questa parola "BEVI."
+				</div>
+				<div>
+					Và benissimo il dire "Bevi," ma <name type="person">Alice</name> ch'era una ragazzina
+				</div>
+				<pb n="6" />
+				<div>
+					prudente, lì per lì non volle bere. <said>"Nò, voglio prima vedere se c'è scritto '<emph>veleno</emph>;'"</said> poichè ella aveva letto molte belle novellette sopra ragazzi ch'erano stati abbruciati, e mangiati vivi da bestie feroci, e cose somiglianti, e tutto ciò perchè non <emph>vollero</emph> ricordarsi della prudenza ch'era stata loro insegnata in casi simili; come per esempio, non maneggiare le molle infocate perchè scottano; se col coltello ti fai sul dito un taglio <emph>molto</emph> profondo, certo n'uscirà sangue; ed ella non aveva dimenticato quell'altro avvertimento, se tu bevi smodatamente d'una bottiglia che ha l'iscrizione "veleno," presto o tardi ti farà male.
+				</div>
+				<div>
+					Ciò non di meno quell'ampolla <emph>non</emph> aveva l'iscrizione "veleno," perciò <name type="person">Alice</name> si avventurò di assaggiarne il contenuto, e trovandolo delizioso (di fatto aveva un sapore misto di torta di ciliegie, di crema, d'ananasso, di tacchino arrosto, di torrone, e di crostini burrati), lo vuotò tutto d'un fiato.
+				</div>
+				<div>
+					<said>"Che curiosa sensazione!"</said> disse <name type="person">Alice</name>: <said>"mi vo ristringendo come un cannocchiale!"</said>
+				</div>
+				<div>
+					Ed era proprio così: non aveva più che dieci pollici d'altezza, e il suo bel visino s'illuminò di gioia pensando che finalmente era giunta alla giusta statura per traversare l'usciolino, ed entrare nel bel giardino. Prima aspettò qualche minuto per vedere se rimpicciolisse di più; è vero che provò una certa ansietà su quel mutamento; <said>"perchè, sapete, potrei rimpicciolirmi tanto da sparire affatto come una candela,"</said> disse <name type="person">Alice</name>. <said>"A chi assomiglierei allora?"</said> E cercò di farsi un'idea dell'apparenza della fiamma d'una candela smorzata, poichè non poteva nemmeno ricordarsi se mai avesse veduta una cosa simile!
+				</div>
+				<div>
+					E scorsero alcuni momenti, e vedendo che nulla di nuovo le accadeva, si accinse ad entrare nel giardino; ma - povera <name type="person">Alice</name>! - quando fu all'uscio, si accorse che aveva dimenticata la chiavettina d'oro, e quando si rivolse verso la tavola dove l'avea lasciata, vide che non potea più arrivarla: essa la vedeva chiaramente attraverso del cristallo, e fece ogni sforzo possibile per arrampicarsi ad uno de' piedi della tavola e montar su, ma gli era troppo sdrucciolevole; e dopo essersi affaticata invano per vincere quella difficoltà, la poverina si sedette e pianse.
+				</div>
+				<pb n="7" />
+				<div>
+					<said>"Via! che vale abbandonarsi al pianto!"</said> disse <name type="person">Alice</name> a sè stessa; <said>"io ti consiglio invece, o Signorina, di smetter subito quel piagnucolare!"</said> Generalmente ella dava a sè stessa dei buoni consigli (benchè raramente poi li seguisse), e talvolta si rimproverava tanto severamente che le lagrime le scorrevano per le gote; e si rammentò che una volta stava lì lì per schiaffeggiarsi perchè s'era truffata in una partita di croquet che giuocava contro a sè medesima, che questa straordinaria bimba trovava piacere a fingersi di essere due persone. <said>"Ma ora è inutile voler credermi due persone,"</said> pensò la povera Alice, <said>"me ne resta appena tanto per comporne una!"</said>. Ed ecco, le cadde sott'occhio una cassettina di cristallo che giaceva sotto la tavola: l'aprì, e vi trovò dentro un piccolo pasticcino, sul quale, con uva di Corinto, era scritto in belli caratteri "MANGIA." <said>"Bene! lo mangerò,"</said> disse <name type="person">Alice</name>, <said>"e se mi farà crescere di molto, giungerò ad afferrare la chiavettina, e se mi farà rimpicciolire mi striscerò sotto l'uscio: così in un modo o in un altro entrerò nel giardino, e poi, sarà quel che sarà!"</said>
+				</div>
+				<div n="Capitolo2" type="romanzo"></div>
+			    <pb n="8" />
+			    <head>LO STAGNO DI LAGRIME.</head>
+			    <div>
+			    	<said>"Curiosissimo e sempre più curiosissimo!"</said> gridò <name type="person">Alice</name> (era tanta la sua sorpresa che non sapeva più parlar correttamente la sua lingua); <said>"mi stò allungando come un cannocchiale, e il più lungo che mai vi sia stato! Addio piedi!"</said> (perchè appena guardò giù a' suoi piedi le sembrò che li avesse quasi perduti di vista, tanto erano lontani). <said>"Oh i miei poveri piedini! chi mai in terra v'infilerà le calze, e vi metterà le scarpettine? Davvero io non potrò farlo più! Oramai sarò tanto lungi da voi, che certo io non mi prenderò più</said> 
+			    </div>
+			    <pb n="9" />
+			    <div>
+			    	<said>briga di voi altri: bisogna che vi accomodiate alla meglio; - eppure bisognerebbe ch'io li trattassi bene,"</said> pensò <name type="person">Alice</name>, <said>"se nò, non vorranno andare per la via ch'io vorrei battere! Vediamo un po': ogni anno a Natale darò loro un bel paio di stivaletti."</said>
+			    </div>
+			    <div>
+			    	E andava mulinando col cervello come farebbe. <said>"Glieli manderò col procaccino,"</said> pensò la bimba; <said>"ma gli è davvero strano il mandar regali a' proprii piedi! E quanto sarà curioso l'indirizzo!</said>
+			    </div>
+			    <div>
+			    	<l>Al Signor <name type="person">Piedestro</name> d'<name type="person">Alice</name>,</l>
+			    	<l>Tappeto,</l>
+			    	<l>Presso il parafuoco,</l>
+			    	<l>(coi saluti d'<name type="person">Alice</name>).</l>
+			    </div>
+			    <div>
+			    	<said>Meschina! quante sciocchezze vo dicendo!"</said>
+			    </div>
+			    <div>
+			    	Giusto allora il suo capo urtò contro la volta della sala: aveva più di nove piedi d'altezza! Subito adunghiò la chiavettina d'oro, e via, verso l'uscio del giardino.
+			    </div>
+			    <div>
+			    	Povera <name type="person">Alice</name>! Tutto quello che poteva fare consisteva nel giacere, appoggiando il fianco per guardare il giardino con la coda d'un occhio; ma il penetrarvi dentro era diventato più difficile che mai: sedette dunque, e si rimise a piangere.
+			    </div>
+			    <div>
+			    	<said>"Ti dovresti vergognare,"</said> disse <name type="person">Alice</name>, <said>"figurati, una gran ragazzona come te"</said> (e davvero lo poteva dire allora) <said>"fare la piagnolosa! Smetti subito ti dico!"</said> Ma pure continuò, versando lagrime a secchie, sinchè formò uno stagno intorno a lei di quasi quattro pollici d'altezza, e che giungeva a metà della sala.
+			    </div>
+			    <div>
+			    	Qualche istante dopo sentì in lontananza come uno scalpiccío; subito si forbì gli occhi per vedere chi fosse. Era il <name type="animale fantastico">Coniglio</name> bianco che ritornava, splendidamente vestito, con un pajo di guanti bianchi in una mano, e un gran ventaglio nell'altra: veniva trottando frettolosamente, e mormorando fra sè stesso, <said>"Oh! la Duchessa, la <name type="person">Duchessa</name>! Se n'andrà sulle furie perchè l'ho fatta aspettare!"</said> <name type="person">Alice</name> era tanto fuori di sè che avrebbe chiesto soccorso a chiunque le fosse capitato: così quando il <name type="animale fantastico">Coniglio</name> le fu vicino, gli disse con voce tremula e sommessa, "Di grazia, Signore - ." Il <name type="animale fantastico">Coniglio</name> trasaltò, gli caddero a terra i guanti e il ventaglio, e in
+			    </div>
+			    <pb n="10" />
+			    <div>
+			    	mezzo a quella tenebrìa si mise a correre di traverso come se avesse le ali alle zampe.
+			    </div>
+			    <div>
+			    	<name type="person">Alice</name> raccattò il ventaglio e i guanti, e perchè la sala pareva una stufaiuola si rinfrescò sventolandosi e parlando fra sè: <said>"Meschina me! Come ogni cosa è strana quest'oggi! Eppure ieri le cose andavano secondo il solito. Non mi sorprenderebbe se stanotte fossi stata scambiata! Vediamo: non ero io, io stessa che mi levai questa mattina? Mi pare di rammentarmi ch'io mi trovai un poco diversa. Ma se non sono la stessa dovrò rivolgermi questa domanda: Chi mai dunque son io? Ah! quì stà l'imbroglio!"</said> E ripensò a tutte le ragazze che conosceva, e che erano dell'età sua, per vedere se per caso fosse stata trasformata in una di quelle.
+			    </div>
+			    <div>
+			    	<said>"Certo io non sono <name type="person">Ada</name>,"</said> disse, <said>"perchè i suoi capelli sono inanellati, e i miei non lo sono punto; certo non sono <name type="person">Isabella</name>, poichè io so tante belle cose, e quella poverina sa tanto poco! Eppoi <name type="person">Isabella</name> è <name type="person">Isabella</name>, ed io sono io. Meschina! che imbroglio è questo! Proviamo se io mi rammento tutte le cose che sapeva una volta: quattro volte cinque fanno dodici, e quattro volte sei fanno tredici, e quattro volte sette fanno - oimè! Se vado di questo passo non giungerò mai a venti! Del resto la Tavola Aritmetica non significa nulla: proviamo la Geografia: <country>Londra</country> è la capitale di <country>Parigi</country>, e <country>Parigi</country> è la capitale di <country>Roma</country>, e <country>Roma</country> - , nò, ho sbagliato tutto! Davvero devo essere stata trasformata in Isabella! Proverò a ripetere 'Rondinella pellegrina;'"</said> e si mise le mani conserte al petto come se stesse per ripetere le lezioni, e cominciò a recitare quella Romanza, ma la sua voce suonava rauca e strana, e le parole non le uscivano dalle labbra come una volta: -
+			    </div>
+			    <div>
+			    	<said>
+			    	“<l>'Rondinella porporina</l>
+			    	<l>Che ti posi sul loggione</l>
+			    	<l>Raccattando ogni mattina</l>
+			    	<l>La zanzara ed il moscone,</l>
+			    	<l>Li vuoi friggere in padella</l>
+			    	<l>Porporina Rondinella?'”</l>
+			        </said>
+			    </div>
+			    <div>
+			    	<said>"Scommetto che le vere parole della Romanza non son queste,"</said> disse la povera <name type="person">Alice</name>, e le ritornarono i lucciconi agli occhi. 
+			    </div>
+			    <pb n="11" />
+			    <div>
+			    	<said>"In somma,"</said> continuò a dire,- <said>"io devo essere Isabella, e dovrò andare a vivere in quella casuccia, e non aver quasi più giuocattoli, e tante lezioni da imparare! Ma se sono <name type="person">Isabella</name>, caschi pure il mondo, io resterò quì! Inutilmente, signori miei, caccerete la testa dal soffitto per dirmi 'Carina, vieni su!' Io alzerò soltanto gli occhi, e dirò loro, 'Chi son io? Ditemelo prima, e se sarò quella che voi cercate, verrò su; se no resterò quì inchiodata sino a che sarò qualchedun'altra' - ma, oimè!"</said> esclamò <name type="person">Alice</name>, versando un fiume di lagrime. <said>"Vorrei che <emph>mettessero</emph> fuori la testa! Son <emph>tanto</emph> stanca d'esser quì, sola!"</said>
+			    </div>
+			    <div>
+			    	E si guardò le mani, e si meravigliò vedendo che mentre parlava fra sè stessa aveva infilato uno de' guanti bianchi che il <name type="person">Coniglio</name> aveva lasciati cadere. <said>"Come mai ho <emph>potuto</emph> far ciò?"</said> disse. <said>"Forse sono ridiventata piccina."</said>
+			    </div>
+			    <div>
+			    	Si levò ed avvicinossi alla tavola per misurarsi con quella, - osservò che, per quanto le pareva, era ridotta a circa due piedi d'altezza e che andava impiccolendosi rapidamente: indovinò che la causa di questa nuova trasformazione era il ventaglio che aveva in mano, e subito lo buttò a terra, - e fu proprio a tempo, altrimenti assottigliava tanto da sparire totalmente.
+			    </div>
+			    <div>
+			    	<said>"L'ho scampata bella!"</said> disse <name type="person">Alice</name> tutta impaurita da quel subitaneo mutamento, ma lieta, però perchè esisteva ancora; <said>"ed ora andiamo al giardino!"</said> e rivolse sollecitamente i passi verso l'usciolino; ma ahi! l'usciolino era chiuso, e la chiavettina d'oro era sulla tavola come prima; <said>"le cose vanno proprio alla peggio"</said> pensò la derelitta fanciulla, <said>"non sono stata mai tanto piccina! E protesto che tutto ciò è un brutto affare, ma brutto assai!"</said>
+			    </div>
+			    <div>
+			    	Mentre diceva queste parole, sdrucciolò, e zaffete! cascò sino al mento nell'acqua salsa. Imprima credette esser caduta nel mare, <said>"e in tal caso potrò tornare a casa per la ferrovia,"</said> disse fra sè. (<name type="person">Alice</name> era stata una volta sola ai bagni di mare, d'allora in poi s'imaginò che dovunque si va, verso la spiaggia, trovansi casotti da bagni lungo il mare, ragazzi che zappano l'arena con le vanghe di legno, poi una fila di case mobiliate, e dietro ad esse una stazione di strada ferrata). Ma subito si accorse ch'era caduta nello stagno delle lagrime che avea versate quando aveva nove piedi d'altezza.
+			    </div>
+			</p>
+		</text>
+	</teiHeader>
